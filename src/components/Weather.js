@@ -46,7 +46,7 @@ export default function Weather() {
   return (
     <div>
       <section
-        style={{ background: `url(https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-weather/draw1.webp) no-repeat center center fixed`  }}
+        style={{height:"100vh", background: `url(https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-weather/draw1.webp) no-repeat center center fixed`  }}
       >
         <div className="container py-2 h-100">
           <div className="row d-flex justify-content-center align-items-center h-100">
